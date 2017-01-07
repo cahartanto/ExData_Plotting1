@@ -1,0 +1,76 @@
+x <- rnorm(100)
+hist(x)
+y <- rnorm(100)
+plot(x,y)
+plot(x,z)
+z<- rnorm(100)
+plot(x,z)
+plot(x,y)
+part(mar = c(2, 2, 2))
+plot(x,y)
+par(mar = c(4, 4, 2, 2))
+plot(x,y)
+x <- rnorm(100)
+y <- rnorm(100)
+plot (x, y, pch = 20)
+title("Scatterplot")
+text(-2, -2, "Label")
+legend("topleft", legend = "Data")
+legend("topleft", legend = "Data", pch = 20)
+fit <- lm(y-x)
+abline(fit)
+fit <- lm ( y ~ x)
+abline(fit)
+abline(fit, lwd=3)
+abline(fit, lwd=3, col="blue")
+t <- read.table("household_power_consumption.txt", header=TRUE, sep=";", na.strings="?", colClasses= c('character', 'character', 'numeric', 'numeric', numeric,' numeric', 'numeric', 'numeric, 'numeric'))
+t <- read.table("household_power_consumption.txt", header=TRUE, sep=";", na.strings = "?", colClasses = c('character','character','numeric','numeric','numeric','numeric','numeric','numeric','numeric'))
+cwd
+git hub
+git
+cwd Downloads
+pwd
+cd
+cd /Users/christiehartanto/Downloads
+/Users/christiehartanto/Downloads
+~
+cancel
+~/Users/christiehartanto/Downloads
+getwd
+wd
+wd /Users/christiehartanto/Downloads
+getwd /Users/christiehartanto/Downloads
+ExData_Plotting1
+/Users/christiehartanto/Coursera/ExData_Plotting1
+getwd /Users/christiehartanto/Coursera/ExData_Plotting1
+getwd /christiehartanto/Coursera/ExData_Plotting1
+setwd ('~/Users/christiehartanto/Coursera/ExData_Plotting1')
+setwd('~/Source Code/GitHub/Exploratory-Data-Analysis')
+cd
+pwd
+!
+~
+d
+getwd
+c<-read.table("clipboard")
+t<-read.table(file.choose(), header=T, sep"\t")
+knitr::opts_chunk$set(echo = TRUE, results = "asis")
+t <- read.table("household_power_consumption.txt", header=TRUE, sep=";", na.strings = "?", colClasses = c('character','character','numeric','numeric','numeric','numeric','numeric','numeric','numeric'))
+getwd
+mydata = read.table("household_power_consumption.txt")
+mydata
+help(read.table)
+getwd()
+setwd("/Users/christiehartanto/Coursera/ExData_Plotting1")
+getwd
+getwd()
+t <- read.table("household_power_consumption.txt", header=TRUE, sep=";", na.strings = "?", colClasses = c('character','character','numeric','numeric','numeric','numeric','numeric','numeric','numeric'))
+setwd("household_power_consumption 2.txt")
+getwd()
+setwd("household_power_consumption 2.txt)
+d
+dfewra
+getwd()
+stop
+cancel
+dslkfjalkwjrekljqop23i40`32
